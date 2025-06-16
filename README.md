@@ -48,14 +48,6 @@ main.cpp — Core logic of the game
 
 Moves.txt — Log file automatically generated/appended during play sessions
 
-🚀 Getting Started
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/24-puzzle-game.git
-cd 24-puzzle-game
 Build and Run:
 
 Open in Visual Studio or compile via command line:
